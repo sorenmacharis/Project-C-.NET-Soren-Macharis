@@ -1,0 +1,13 @@
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.csprojAssemblyReference.cache
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\ItemPage.xaml.g.cs
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.csproj.CoreCompileInputs.cache
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.AssemblyInfoInputs.cache
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.AssemblyInfo.cs
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.dll
+C:\Users\Sören\source\repos\Universe\Universe\Universe\bin\Debug\netstandard2.0\Universe.deps.json
+C:\Users\Sören\source\repos\Universe\Universe\Universe\bin\Debug\netstandard2.0\Universe.dll
+C:\Users\Sören\source\repos\Universe\Universe\Universe\bin\Debug\netstandard2.0\Backend.dll
+C:\Users\Sören\source\repos\Universe\Universe\Universe\bin\Debug\netstandard2.0\Backend.pdb
+C:\Users\Sören\source\repos\Universe\Universe\Universe\obj\Debug\netstandard2.0\Universe.csproj.CopyComplete

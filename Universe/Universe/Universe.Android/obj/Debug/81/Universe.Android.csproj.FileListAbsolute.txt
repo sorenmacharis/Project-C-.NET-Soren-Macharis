@@ -1,0 +1,3 @@
+C:\Users\Sören\source\repos\Universe\Universe\Universe.Android\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\Sören\source\repos\Universe\Universe\Universe.Android\obj\Debug\81\Universe.Android.csprojAssemblyReference.cache
+C:\Users\Sören\source\repos\Universe\Universe\Universe.Android\obj\Debug\81\Universe.Android.nuget.stamp

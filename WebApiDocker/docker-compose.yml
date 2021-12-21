@@ -1,0 +1,29 @@
+#docker-compose.yml
+
+version: '3'
+
+services:
+  webapi:
+    build: ./webapi
+    container_name: webapi
+    ports:
+      - 8000:80
+
+  webapi-db:
+    image: mysql
+    container_name: webapi-db
+    environment:
+      - MYSQL_USER=body_user
+      - MYSQL_PASSWORD=body_pass
+      - MYSQL_ROOT_PASSWORD=body_pass
+      - MYSQL_DATABASE=body
+    volumes:
+      - ./mysqldata:/var/lib/mysql
+
+
+  webapi-migration:
+    build:
+      context: ./webapi
+      dockerfile: Dockerfile.migration
+    container_name: webapi-migration
+    tty: true

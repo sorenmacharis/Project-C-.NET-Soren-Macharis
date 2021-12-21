@@ -1,0 +1,9 @@
+C:\Users\Sören\source\repos\Universe\Backend\bin\Debug\netstandard2.0\Backend.deps.json
+C:\Users\Sören\source\repos\Universe\Backend\bin\Debug\netstandard2.0\Backend.dll
+C:\Users\Sören\source\repos\Universe\Backend\bin\Debug\netstandard2.0\Backend.pdb
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.csprojAssemblyReference.cache
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.AssemblyInfo.cs
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.dll
+C:\Users\Sören\source\repos\Universe\Backend\obj\Debug\netstandard2.0\Backend.pdb
